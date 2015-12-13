@@ -1,0 +1,42 @@
+.poster{
+   position: relative; 
+   width: 100%;
+    
+}
+
+.image{
+    width: 100%;
+}
+
+body{
+   background-color: black;
+}
+    
+.footer{
+    color: beige;
+}
+
+.headTitle{
+    position: absolute;
+    top: 10px; 
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-family: fantasy
+}
+
+.nav-bar{
+    position: absolute;
+    bottom: 65%;
+    
+    
+}
+
+.link1{
+    position: absolute;
+    border: solid red;
+    color: beige;
+    text-align: center;
+    
+    
+}
